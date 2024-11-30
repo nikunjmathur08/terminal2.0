@@ -1,0 +1,12 @@
+{
+  "name": "Terminal2.0",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "terminal.js",
+  "scripts": {
+    "start": "node terminal.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
